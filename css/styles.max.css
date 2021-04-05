@@ -344,7 +344,7 @@ section .header {
 }
 .hero {
     min-height: 750px;
-    background: url("../img/hero-min.jpg") center center;
+    background: url("../img/MartieDavide_cover.jpeg") center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -373,6 +373,7 @@ section .header {
 }
 .navigation {
     transition: all 300ms ease-in-out;
+    background-color: rgba(102,153,204, 0.60);
     position: fixed;
     width: 100%;
     z-index: 999;
@@ -392,7 +393,7 @@ header {
     transition: padding 300ms ease-in-out;
 }
 header a {
-    color: #fff;
+    color: #e8ca6f;
     text-transform: uppercase;
     font-size: 13px;
 }
