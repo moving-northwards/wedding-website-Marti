@@ -393,7 +393,7 @@ header {
     transition: padding 300ms ease-in-out;
 }
 header a {
-    color: #e8ca6f;
+    color: #fff;
     text-transform: uppercase;
     font-size: 13px;
 }
@@ -604,7 +604,7 @@ header .member-actions {
 }
 .events .leftcol {
     padding-right: 100px;
-    border-right: solid 1px #e6e9ea;
+    border-right: solid 2px #e5cf7f;
 }
 .events .rightcol {
     padding-left: 100px;
@@ -613,7 +613,7 @@ header .member-actions {
     font-size: 13px;
     font-style: italic;
     text-transform: lowercase;
-    color: rgba(28, 54, 83, 0.6);
+    color: rgba(229,207,127, 1);
 }
 .blog {
     padding-bottom: 120px;
