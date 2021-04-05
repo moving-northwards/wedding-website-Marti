@@ -26,8 +26,9 @@ customize each of them according to your needs.
 
 # TO-DO
 * Logo M&D
-* cover photo
 * photo per notice board
-* togliere twitter facebook etc..
+* testo notice board
+* testo regali
 * MD5 codice di invito
-* photo ricordi 
+* photo ricordi
+* testo indicazioni (info su parcheggio)
