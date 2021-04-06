@@ -26,7 +26,6 @@ customize each of them according to your needs.
 
 # TO-DO
 * Logo M&D
-* photo per notice board
 * testo notice board
 * testo regali
 * MD5 codice di invito
