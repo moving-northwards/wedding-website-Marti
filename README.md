@@ -31,3 +31,4 @@ customize each of them according to your needs.
 * MD5 codice di invito
 * photo ricordi
 * testo indicazioni (info su parcheggio)
+* togli spazio tra due foto marti porti
