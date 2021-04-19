@@ -26,9 +26,7 @@ customize each of them according to your needs.
 
 # TO-DO
 * Logo M&D
-* testo notice board
 * testo regali
 * MD5 codice di invito
 * photo ricordi
-* testo indicazioni (info su parcheggio)
 * togli spazio tra due foto marti porti
