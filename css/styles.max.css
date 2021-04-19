@@ -935,5 +935,6 @@ body.modal-open {
   background: #fff;
   transform: translate(-50%, -50%);
   width : 500px;
-  height: 300px
+  height: 300px;
+  text-align: center;
 }
