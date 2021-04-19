@@ -916,3 +916,24 @@ body.modal-open {
 .modal-body {
     padding: 25px;
 }
+.container-cast {
+    position: relative;
+    text-align: center;
+}
+.hero-castle {
+  background-image: url("img/castello_min.png"); /* The image used */
+  background-color: #fff; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background: #fff;
+  transform: translate(-50%, -50%);
+  width : 500px;
+  height: 300px
+}
