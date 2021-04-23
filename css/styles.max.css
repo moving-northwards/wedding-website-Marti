@@ -344,7 +344,7 @@ section .header {
 }
 .hero {
     min-height: 750px;
-    background: url("../img/MartieDavide_cover.jpeg") center center;
+    background: url("../img/COVERZ.png") center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -368,8 +368,8 @@ section .header {
     padding-top: 40%;
 }
 .hero .hero-content img {
-    width: 55%;
-    margin-bottom: 12%;
+    width: 35%;
+    margin-bottom: 2%;
 }
 .navigation {
     transition: all 300ms ease-in-out;
@@ -404,7 +404,7 @@ header .logo {
     display: inline-block;
 }
 header .logo img {
-    height: 19px;
+    height: 40px;
 }
 header ul.primary-nav {
     margin: 0 0 0 75px;
