@@ -29,3 +29,4 @@ customize each of them according to your needs.
 * testo polaroid 
 * controllare testi in inglese
 * MD5 codice di invito
+* autocertificazione
