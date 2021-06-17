@@ -25,8 +25,7 @@ _See [wedding.rampatra.com](http://wedding.rampatra.com/) for a demo. Use invite
 customize each of them according to your needs.
 
 # TO-DO
-* Logo M&D
-* testo regali
+* testo intro + downloadable links
+* testo polaroid 
+* controllare testi in inglese
 * MD5 codice di invito
-* photo ricordi
-* togli spazio tra due foto marti porti
