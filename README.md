@@ -25,8 +25,5 @@ _See [wedding.rampatra.com](http://wedding.rampatra.com/) for a demo. Use invite
 customize each of them according to your needs.
 
 # TO-DO
-* testo intro + downloadable links
-* testo polaroid 
-* controllare testi in inglese
-* MD5 codice di invito
-* autocertificazione
+
+* testo polaroid
